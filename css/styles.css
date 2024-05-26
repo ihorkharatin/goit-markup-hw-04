@@ -334,8 +334,8 @@ li {
 .social-icons {
    display: block;
    width: calc((100% - 72px) / 4);
-   width: 20px;
-   height: 20px;
+   width: 16px;
+   height: 16px;
    fill:#4d5ae5; 
     
    
@@ -375,7 +375,13 @@ li {
 
 .title-heading {
    margin-bottom: 72px;
+   font-weight: 700;
+   font-size: 36px;
+   letter-spacing: 0.02em;
+   line-height: 1.11;
    text-align: center;
+   text-transform: capitalize;
+   color: #2e2f42;
 }
 
 
